@@ -1,6 +1,6 @@
 # Neutron Transport Modelling
 
-![Project Banner](placeholder_banner.png) <!-- Replace with actual image if available -->
+![Project Banner](cylindersource_heavywater.png) <!-- Replace with actual image if available -->
 
 ## Overview
 This repository contains Monte Carlo simulation codes in MATLAB developed as part of a self-project at the NETP Lab, Indian Institute of Technology Kanpur. The project focuses on modeling neutron transport in H₂O (water) and D₂O (heavy water) using cross-section data from ENDF and JANIS databases. It involves simulating neutron behavior in various geometries, calculating flux distributions, and performing statistical analysis to determine key parameters such as mean free path and reaction rates.
