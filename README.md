@@ -61,7 +61,7 @@ Neutron transport modeling is crucial in nuclear engineering for understanding p
 ### Running Simulations
 - Execute the main script:
   ```matlab
-  run('src/monte_carlo_neutron.m');
+  run('Simulation Codes/points_heavywater.m');
   ```
 - Adjust parameters such as number of histories, energy ranges, and geometry in the script.
 
