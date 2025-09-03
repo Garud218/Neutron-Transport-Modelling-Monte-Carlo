@@ -75,6 +75,4 @@ Neutron transport modeling is crucial in nuclear engineering for understanding p
 - Monte Carlo Methods in Nuclear Physics: Relevant literature on neutron transport (e.g., X-5 Monte Carlo Team, MCNP documentation).
 
 ## Contact
-For questions or collaborations, reach out via GitHub issues or contact the NETP Lab at IIT Kanpur.
-
-*This README is generated based on project description and available information as of September 03, 2025.*
+For questions or collaborations, reach out via GitHub issues or contact [mailto: neutron@cc.cc](neutron@cc.cc).
